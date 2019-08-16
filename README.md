@@ -15,7 +15,7 @@ Main body:
 Slipring:
 * two 8mm long pieces of 22mm copper pipe
 * two motor brushes
-+ two small rubber bands
+* two small rubber bands
 
 Hub:
 * 7 screws, M4, 20mm with nuts
